@@ -1,0 +1,8 @@
+c:\Users\saipa\gforg\PermutationsWithIteration\bin\Debug\netcoreapp1.1\PermutationsWithIteration.deps.json
+c:\Users\saipa\gforg\PermutationsWithIteration\bin\Debug\netcoreapp1.1\PermutationsWithIteration.runtimeconfig.json
+c:\Users\saipa\gforg\PermutationsWithIteration\bin\Debug\netcoreapp1.1\PermutationsWithIteration.runtimeconfig.dev.json
+c:\Users\saipa\gforg\PermutationsWithIteration\bin\Debug\netcoreapp1.1\PermutationsWithIteration.dll
+c:\Users\saipa\gforg\PermutationsWithIteration\bin\Debug\netcoreapp1.1\PermutationsWithIteration.pdb
+c:\Users\saipa\gforg\PermutationsWithIteration\obj\Debug\netcoreapp1.1\PermutationsWithIteration.AssemblyInfo.cs
+c:\Users\saipa\gforg\PermutationsWithIteration\obj\Debug\netcoreapp1.1\PermutationsWithIteration.dll
+c:\Users\saipa\gforg\PermutationsWithIteration\obj\Debug\netcoreapp1.1\PermutationsWithIteration.pdb

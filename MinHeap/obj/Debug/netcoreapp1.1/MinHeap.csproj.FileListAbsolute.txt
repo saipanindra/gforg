@@ -1,0 +1,8 @@
+c:\Users\saipa\gforg\MinHeap\bin\Debug\netcoreapp1.1\MinHeap.deps.json
+c:\Users\saipa\gforg\MinHeap\bin\Debug\netcoreapp1.1\MinHeap.runtimeconfig.json
+c:\Users\saipa\gforg\MinHeap\bin\Debug\netcoreapp1.1\MinHeap.runtimeconfig.dev.json
+c:\Users\saipa\gforg\MinHeap\bin\Debug\netcoreapp1.1\MinHeap.dll
+c:\Users\saipa\gforg\MinHeap\bin\Debug\netcoreapp1.1\MinHeap.pdb
+c:\Users\saipa\gforg\MinHeap\obj\Debug\netcoreapp1.1\MinHeap.AssemblyInfo.cs
+c:\Users\saipa\gforg\MinHeap\obj\Debug\netcoreapp1.1\MinHeap.dll
+c:\Users\saipa\gforg\MinHeap\obj\Debug\netcoreapp1.1\MinHeap.pdb
